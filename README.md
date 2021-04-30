@@ -1,11 +1,11 @@
-# Reverse Each Word
+# Reverse Each Word Lab
 
-## Objectives
+## Learning Goals
 
-1. Understand the return value of the each method
-2. Use the .collect method
-3. Understand the return value of the .collect method
-4. Use the return of collect for further operation
+- Understand the return value of the each method
+- Use the .collect method
+- Understand the return value of the .collect method
+- Use the return of collect for further operation
 
 ## Instructions
 
